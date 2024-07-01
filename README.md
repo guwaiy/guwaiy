@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm GuWaiY</h1>
+<h3 align="center">A passionate make UI component HTML CSS & JavaScript.</h3>
 
-<!--
-**guwaiy/guwaiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All of my projects are available at [Website](https://guwaiy.vercel.app/)
 
-Here are some ideas to get you started:
+- 💬 Ask me about **HTML, CSS, JavaScript, React, G-Sap, Dynamic Animation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **sijanlamichhanemagar@gmail.com**
+
+- ⚡ Fact **I am single & want to peace and alone.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
