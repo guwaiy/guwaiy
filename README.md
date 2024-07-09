@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GuWaiY</h1>
 <h3 align="center">A passionate make UI component HTML CSS & JavaScript.</h3>
 
-- 👨‍💻 All of my projects are available at [Website](https://guwaiy.vercel.app/)
+- 👨‍💻 All of my projects are available at [Website]([https://guwaiy.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, G-Sap, Dynamic Animation**
 
